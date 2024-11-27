@@ -175,3 +175,13 @@ public void info() {
 3. **Regras importantes:**
     - Se você **não chamar `super()`**, o Java tentará invocar o construtor padrão da superclasse automaticamente. Caso a superclasse não tenha um construtor sem parâmetros, um erro de compilação será gerado.
     - Sempre utilize `super()` como a primeira linha do construtor da subclasse.
+
+---
+
+## Referências
+
+https://www.youtube.com/watch?v=8VzFrNPkN6U
+
+https://www.datacamp.com/pt/doc/java/super
+
+:)
